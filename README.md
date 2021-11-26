@@ -11,8 +11,8 @@
 ### itali bold
 *computer Scinece Student*
 # Link Readme files
-[Google] ("www.google.com")
+[Google]("www.google.com")
 # img
-! [dq] ("download (1).jpg")
+![dq]("dq.jpg.jpg")
 
 
