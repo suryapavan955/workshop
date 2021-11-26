@@ -10,7 +10,7 @@
 
 ### itali bold
 *computer Scinece Student*
-# Link Readme file
+# Link Readme files
 [Google] ("www.google.com")
 
 
