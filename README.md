@@ -18,3 +18,20 @@
 |----|----|------|-----------|
 |1|surya|cse|34|
 |2|aditya|cse|87|
+# lists
+##  orderedlists
+     1.name
+     2.rolno
+### unorderedlists
+     -name 
+     -roolno
+ 
+   *name
+   *roolno
+  ```python
+    def hello()
+    a=10
+    b=20
+    print(a+b)
+  ```
+  
